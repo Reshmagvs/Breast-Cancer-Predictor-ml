@@ -1,13 +1,10 @@
-
-
 # Breast Cancer Predictor
 
 ## Dataset Information
 
-Used the **Breast Cancer Wisconsin (Diagnostic) Dataset**, which contains crucial medical features derived from breast cancer biopsy samples. This dataset is widely used in the medical field for breast cancer research and prediction modeling.
-
-- **Source**: The dataset is available on Kaggle [here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data).
-- **Features**: The dataset includes 30 features, such as:
+- Used the **Breast Cancer Wisconsin (Diagnostic) Dataset**
+- **Source**: Kaggle dataset [here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data).
+- **Features**: 
   - **Tumor size**
   - **Cell shape**
   - **Texture and smoothness of cells**
