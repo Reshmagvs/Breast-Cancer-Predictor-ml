@@ -45,12 +45,15 @@ After Evaluation:
 - **F1-Score**: 0.9912
 - **ROC-AUC**: 0.9884
 
+# Run the project 
+```
 # Clone the repository
-git clone https://github.com/Reshmagvs/Breast-Cancer-Predictor-ml
+git clone [https://github.com/Reshmagvs/Breast-Cancer-Predictor-ml]
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the notebook
 jupyter notebook breast_cancer_prediction.ipynb
+
 ```
