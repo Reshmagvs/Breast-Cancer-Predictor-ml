@@ -48,7 +48,7 @@ After Evaluation:
 # Run the project 
 ```
 # Clone the repository
-git clone [https://github.com/Reshmagvs/Breast-Cancer-Predictor-ml]
+git clone https://github.com/Reshmagvs/Breast-Cancer-Predictor-ml
 
 # Install dependencies
 pip install -r requirements.txt
